@@ -1,0 +1,10 @@
+<strings>
+    <string name="MON" value="SEN"/>
+    <string name="TUE" value="SEL"/>
+    <string name="WED" value="RAB"/>
+    <string name="THU" value="KAM"/>
+    <string name="FRI" value="JUM"/>
+    <string name="SAT" value="SAB"/>
+    <string name="SUN" value="MIN"/>
+    <string name="language" value="in"/>
+</strings>

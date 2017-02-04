@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="agps_enable">Mengizinkan A-GPS</string>
+  <string name="agps_mode">Mode AGPS</string>
+  <string name="agps_network">Mengizinkan Meminta Jaringan</string>
+  <string name="agps_onoff">AGPS Hidup/Mati</string>
+  <string name="agps_position_mode">Mode Posisi AGPS</string>
+  <string name="app_name">AGPS</string>
+  <string name="cmcc_logging">Mencatat CMCC</string>
+  <string name="logging">Mencatat</string>
+  <string name="mode_msa">MSA</string>
+  <string name="mode_msb">MSB</string>
+  <string name="mode_standalone">Mode Tunggal</string>
+  <string name="position_mode_coldstart">Mulai Dingin</string>
+  <string name="position_mode_hotstart">Mulai Panas</string>
+  <string name="position_mode_warmstart">Mulai Hangat</string>
+  <string name="reset">Kembali ke Asal</string>
+  <string name="save">Simpan</string>
+  <string name="secure_mode">Mode Aman</string>
+  <string name="slp_address">Alamat SLP:</string>
+  <string name="slp_load">Mulai</string>
+  <string name="slp_port">SLP:</string>
+  <string name="slp_template">Contoh SLP</string>
+  <string name="slp_templatechoose">Pilih Contoh SLP</string>
+  <string name="supl_logging">Mencatat SUPL</string>
+  <string name="user_plane_settings">Pengaturan Pengguna</string>
+</resources>

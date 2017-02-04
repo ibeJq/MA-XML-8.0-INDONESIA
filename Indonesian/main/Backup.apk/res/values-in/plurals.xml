@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="data_item_count">
+        <item quantity="other">%d artikel</item>
+        <item quantity="one">%d artikel</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d menit</item>
+        <item quantity="one">%d menit</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d waktu</item>
+    </plurals>
+</resources>
