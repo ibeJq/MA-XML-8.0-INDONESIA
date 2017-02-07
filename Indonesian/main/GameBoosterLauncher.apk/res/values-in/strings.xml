@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="abc_action_bar_home_description">Pergi ke rumah</string>
+  <string name="abc_action_bar_up_description">Teratas</string>
+  <string name="abc_action_menu_overflow_description">Pilihan lainnya</string>
+  <string name="abc_action_mode_done">Selesai</string>
+  <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+  <string name="abc_activitychooserview_choose_application">Pilih aplikasi</string>
+  <string name="abc_capital_off">Hidupkan</string>
+  <string name="abc_capital_on">Matikan</string>
+  <string name="abc_search_hint">Cari ...</string>
+  <string name="abc_searchview_description_clear">Menghapus permintaan</string>
+  <string name="abc_searchview_description_query">Permintaan pencarian</string>
+  <string name="abc_searchview_description_search">Pencarian</string>
+  <string name="abc_searchview_description_submit">Kirim pertanyaan</string>
+  <string name="abc_searchview_description_voice">Pencarian suara</string>
+  <string name="abc_shareactionprovider_share_with">Berbagi dengan</string>
+  <string name="abc_shareactionprovider_share_with_application">Berbagi dengan %s</string>
+  <string name="abc_toolbar_collapse_description">Dekat</string>
+  <string name="app_name">Game Booster</string>
+  <string name="search_menu_title">Pencarian</string>
+</resources>

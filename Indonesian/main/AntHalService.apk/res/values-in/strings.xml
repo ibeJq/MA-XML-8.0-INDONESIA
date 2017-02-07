@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Layanan ANT HAL</string>
+  <string name="permdesc_ant">Hal ini memungkinkan aplikasi untuk berkomunikasi dengan perangkat yang menggunakan proxy ANT. aplikasi berbahaya bisa mendapatkan atau mengirimkan informasi dari perangkat ANT tanpa persetujuan Anda.</string>
+  <string name="permdesc_antAdmin">Memungkinkan aplikasi untuk mengkonfigurasi radio koneksi ANT. aplikasi berbahaya dapat mencegah aplikasi lain terhubung ke perangkat ANT ANT</string>
+  <string name="permdesc_antradio">Memungkinkan aplikasi untuk mengkonfigurasi radio koneksi ANT. aplikasi berbahaya dapat mencegah ANT Radio Service menyediakan fungsionalitas untuk aplikasi lain.</string>
+  <string name="permlab_ant">Menggunakan koneksi ANT radio</string>
+  <string name="permlab_antAdmin">Setelan koneksi ANT</string>
+  <string name="permlab_antradio">Gunakan hardware ANT</string>
+</resources>

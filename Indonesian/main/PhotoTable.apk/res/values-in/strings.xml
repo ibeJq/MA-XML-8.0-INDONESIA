@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Foto Layar</string>
+  <string name="flipper_screensaver_name">Bingkai foto</string>
+  <string name="local_source_name">Foto perangkat</string>
+  <string name="need_to_configure">Tidak ada foto khusus.</string>
+  <string name="no_photos">Tidak ada foto pada perangkat.</string>
+  <string name="photodream_select_all">Pilih semua</string>
+  <string name="photodream_select_none">Menghapus semua tanda</string>
+  <string name="posts_album_name">Berbagi foto</string>
+  <string name="stock_photo_album_name">Foto</string>
+  <string name="table_screensaver_name">Fotos galeri</string>
+  <string name="unknown_album_name">Album</string>
+</resources>

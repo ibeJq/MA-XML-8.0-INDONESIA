@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="permdesc_ACCESS_EXTENSION_SERVICE">Hal ini memungkinkan aplikasi untuk mengakses modul ekstensi sidik jari.</string>
+</resources>

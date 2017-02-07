@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="APKTOOL_DUMMYVAL_0x7f050000">SpacesManagerService</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f050001">Anda tidak dapat mengubah ruang sementara.</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f050002">Anda tidak dapat mengubah ruang sementara  akan menghapus data pengguna.</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f050003">Fitur Ruang Tersembunyi tidak diaktifkan</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f050004">Membuat Ruang dinonaktifkan.</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f050005">Menambahkan fitur pengguna dinonaktifkan.</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f050006">Bluetooth Dinonaktifkan</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f050007">Penggunaan Bluetooth dibatasi dalam ruang ini.</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f050008">Aplikasi ini memerlukan fitur yang tidak didukung oleh perangkat ini.</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f050009">Keluar</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f05000a">kontak baru bersama dari:</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f05000b">Rekaman …</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f05000c">Otorisasi …</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f05000d">Kesalahan kebijakan</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f05000e">Undangan sudah digunakan</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f05000f">Kesalahan pendaftaran</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f050010">OK</string>
+  <string name="APKTOOL_DUMMYVAL_0x7f050011">Error</string>
+</resources>

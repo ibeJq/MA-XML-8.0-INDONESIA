@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessing_notification_title">Mengakses file dari %1$s</string>
+  <string name="app_label">MTP Host</string>
+  <string name="downloads_app_label">Download</string>
+  <string name="error_busy_device">Perangkat lain sedang sibuk. Anda tidak dapat mentransfer file sampai tersedia.</string>
+  <string name="error_locked_device">Tidak ada file yang ditemukan. Perangkat lain dapat dikunci. Jika demikian, buka dan coba lagi.</string>
+</resources>

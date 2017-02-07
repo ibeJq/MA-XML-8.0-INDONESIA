@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_call">Panggilan %s</string>
+  <string name="action_text">Teks %s</string>
+  <string name="app_name">Tags</string>
+  <string name="button_done">Selesai</string>
+  <string name="empty_tag_prompt">Tag ini kosong.</string>
+  <string name="import_vcard">Impor ^ 1</string>
+  <string name="mime_display_name">Data label NFC</string>
+  <string name="tag_empty">Tag kosong</string>
+  <string name="tag_unknown">Diketahui jenis label</string>
+  <string name="title_existing_tag">Label</string>
+  <string name="title_scanned_tag">Label baru disimpan</string>
+  <string name="vcard_title">Hubungi untuk Info ^ 1</string>
+</resources>

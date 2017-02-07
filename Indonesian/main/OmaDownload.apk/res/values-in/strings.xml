@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="Batalkan</string>
+  <string name="cannot_download">Anda tidak dapat men-download file tanpa kartu SD</string>
+  <string name="description">Deskripsi:</string>
+  <string name="download">Download</string>
+  <string name="download_complete">Download komplit</string>
+  <string name="download_info">Informasi download</string>
+  <string name="download_sucessful">Download sukses</string>
+  <string name="filename">Nama File:</string>
+  <string name="filesize">Ukuran File:</string>
+  <string name="filetype">Jenis File:</string>
+  <string name="filevendor">Penjual File:</string>
+  <string name="invalid_dd">berkas deskripsi valid</string>
+  <string name="invalid_version">versi valid</string>
+  <string name="mimemismatch">Jenis mismatch mime</string>
+  <string name="next_page">layar berikutnya</string>
+  <string name="nonacceptable">konten tidak dapat diterima</string>
+  <string name="server_error">masalah jaringan!</string>
+</resources>
