@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="app_label">Aplikasi pencari provider</string>
-  <string name="application_desc">Aplikasi</string>
-  <string name="search_label">Aplikasi</string>
-  <string name="settings_description">Aplikasi yang terinstal</string>
-</resources>
