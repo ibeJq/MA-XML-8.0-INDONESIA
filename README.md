@@ -6,6 +6,7 @@
 
 #MIUI 8 XML Daily / Beta
 BAHASA INDONESIA TRANSLATION FOR MIUI CHINA DEVELOPER
+
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
 Strings are under a 
