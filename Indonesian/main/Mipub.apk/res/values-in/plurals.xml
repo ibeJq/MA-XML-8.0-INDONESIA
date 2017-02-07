@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">¿Hapus %1$s percakapan yang dipilih?</item>
+        <item quantity="one">¿Hapus percakapan ini?</item>
+    </plurals>
+</resources>

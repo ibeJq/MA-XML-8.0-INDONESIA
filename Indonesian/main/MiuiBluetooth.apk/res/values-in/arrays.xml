@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Bergetar bila ada panggilan masuk</item>
+        <item>Bergetar bila menerima pesan</item>
+        <item>Bergetar bila alarm berbunyi</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Mengambil foto</item>
+        <item>Pencarian telepon</item>
+        <item>Pencarian Mi-key</item>
+    </string-array>
+</resources>

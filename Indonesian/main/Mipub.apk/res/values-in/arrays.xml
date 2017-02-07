@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 jam</item>
+        <item>2 jam</item>
+        <item>3 jam</item>
+        <item>5 jam</item>
+        <item>10 jam</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Menerima</item>
+        <item>Utusan</item>
+    </string-array>
+</resources>

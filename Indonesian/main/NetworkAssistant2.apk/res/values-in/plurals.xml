@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Tidak ada data penggunaan %d aplikasi</item>
+        <item quantity="one">Tidak ada data penggunaan %d aplikasi</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Data penggunaan %d aplikasi</item>
+        <item quantity="one">Data penggunaan %d aplikasi</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d aplikasi dioptimalkan</item>
+        <item quantity="one">%d aplikasi dioptimalkan</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d aplikasi dapat dioptimalkan</item>
+        <item quantity="one">%d aplikasi dapat dioptimalkan</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d aplikasi menggunakan data</item>
+        <item quantity="one">%d aplikasi menggunakan data</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d aplikasi tidak menggunakan data</item>
+        <item quantity="one">%d aplikasi tidak menggunakan data</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Digunakan lama %d hari</item>
+        <item quantity="one">Digunakan kemarin</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Cari %d aplikasi</item>
+        <item quantity="one">Cari %d aplikasi</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d aplikasi menggunakan data seluler</item>
+        <item quantity="one">%d aplikasi menggunakan data seluler</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d aplikasi tidak menggunakan data seluler</item>
+        <item quantity="one">%d aplikasi tidak menggunakan data seluler</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d aplikasi ditemukan</item>
+        <item quantity="one">%d aplikasi ditemukan</item>
+    </plurals>
+</resources>

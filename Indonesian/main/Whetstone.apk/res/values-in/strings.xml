@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Whetstone</string>
+  <string name="permstep_description">Memungkinkan aplikasi untuk membaca informasi dari langkah ponsel Anda</string>
+  <string name="permstep_label">Baca langkah</string>
+  <string name="whetstone_accessibility_desc">Membantu fungsi Whetstone</string>
+  <string name="whetstone_accessibility_label">Membantu layanan Whetstone</string>
+</resources>

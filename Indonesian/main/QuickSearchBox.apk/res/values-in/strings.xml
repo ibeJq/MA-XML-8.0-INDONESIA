@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="app_name">Cari</string>
+	<string name="apps_search_activity"/>
+	<string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+	<string name="baidu_search_url_from_input">https://m.baidu.com/s?from=1013672d&amp;word=%s&amp;tn=ins</string>
+	<string name="baidu_search_url_from_launcher">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+	<string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
+	<string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
+	<string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+	<string name="clear_history">Hapus riwayat</string>
+	<string name="clear_shortcuts">Hapus pintasan</string>
+	<string name="clear_shortcuts_agree">Hapus pintas</string>
+	<string name="clear_shortcuts_disagree">Jangan hapus pintasan</string>
+	<string name="clear_shortcuts_prompt">Apakah Anda ingin menghapus semua jalan pintas untuk saran pencarian baru-baru ini dipilih? Untuk menghapus riwayat Browser Anda, gunakan setelan Browser.</string>
+	<string name="clear_shortcuts_summary">Hapus pintasan untuk saran pencarian baru-baru ini terpilih</string>
+	<string name="common_setting">Pengaturan Umum</string>
+	<string name="connect_and_retry">Terhubung ke internet dan coba lagi</string>
+	<string name="corpus_description_apps">Aplikasi yang terinstal</string>
+	<string name="corpus_description_web">Bookmark</string>
+	<string name="corpus_hint_apps">Cari aplikasi</string>
+	<string name="corpus_label_apps">Aplikasi</string>
+	<string name="corpus_label_global">Semua</string>
+	<string name="corpus_label_web">Jaringan</string>
+	<string name="corpus_selection_heading">Pencarian</string>
+	<string name="cta_declaration">Fitur ini perlu terhubung ke internet, mengakses lokasi perangkat Anda, dan melihat riwayat panggilan Anda dan kontak untuk bekerja normal.</string>
+	<string name="cta_declaration_ignore">Jangan tampilkan lagi</string>
+	<string name="cta_declaration_negative_text">Keluar</string>
+	<string name="cta_declaration_positive_text">Mengizinkan</string>
+	<string name="cta_declaration_title">Ketentuan Layanan</string>
+	<string name="default_hint">Cari aplikasi, musik, video, buku ...</string>
+	<string name="default_search_domain">.google.com</string>
+	<string name="device_settings_category_title">Jelas pintas</string>
+	<string name="distance_unit_kilometer">Km</string>
+	<string name="distance_unit_meter">M</string>
+	<string name="google_app_label">Pencarian Google</string>
+	<string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+	<string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+	<string name="google_search_description">Saran Pencarian Google</string>
+	<string name="google_search_hint">Pencarian Google</string>
+	<string name="google_search_label">Google</string>
+	<string name="google_settings_category_title">Pencarian Google</string>
+	<string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+	<string name="hot_search">Populer</string>
+	<string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+	<string name="loading">Tunggu sebentar…</string>
+	<string name="menu_help">Pertolongan</string>
+	<string name="menu_settings">Setelan penelusuran</string>
+	<string name="network_unavailable">Tidak dapat terhubung ke jaringan</string>
+	<string name="recent_apps">Aplikasi yang disarankan</string>
+	<string name="recently_shortcut_label">Pintas baru-baru ini</string>
+	<string name="remove_from_history">Apakah Anda ingin menghapus item ini dari riwayat penelusuran?</string>
+	<string name="remove_from_history_failed">Tidak dapat menghapus item dari riwayat.</string>
+	<string name="search_group_fold">Menyembunyikan</string>
+	<string name="search_group_unfold">Lebih</string>
+	<string name="search_history">Riwayat</string>
+	<string name="search_in_app_store">Cari Mi App Store</string>
+	<string name="search_in_web">Cari online</string>
+	<string name="search_settings">Setelan penelusuran</string>
+	<string name="search_sources">Item dicari</string>
+	<string name="search_sources_summary">Pilih apa untuk mencari di telepon</string>
+	<string name="search_suggestion">Tips</string>
+	<string name="search_widget">Pencarian</string>
+	<string name="send_secret_code">Kirim kode</string>
+	<string name="show_more">Menampilkan lebih banyak</string>
+	<string name="suggest_open_app_failed">Tidak dapat membuka aplikasi ini</string>
+	<string name="system_search_category_title">Telepon</string>
+	<string name="voice_search_hint_quotation_end">\"</string>
+	<string name="voice_search_hint_quotation_start">\"</string>
+	<string name="voice_search_hint_title">Coba ucapkan:</string>
+	<string name="web_search_results">Baidu</string>
+	<string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+	<string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v4/hints</string>
+	<string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v4/home</string>
+	<string name="xiaomi_search_label">Hasil</string>
+	<string name="xiaomi_source_url">https://search.browser.miui.com</string>
+	<string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
+</resources>

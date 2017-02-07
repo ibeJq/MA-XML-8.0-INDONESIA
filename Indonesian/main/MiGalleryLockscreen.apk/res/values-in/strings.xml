@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="app_name">Wallpaper Carousel</string>
+	<string name="at_least_one">Pilih setidaknya satu kategori</string>
+	<string name="auto_interval">Mobil</string>
+	<string name="cancel">Membatalkan</string>
+	<string name="cancel_international">Membatalkan</string>
+	<string name="cancel_lockscreen">Membatalkan</string>
+	<string name="change_time">Beralih wallpaper</string>
+	<string name="day">Sekali sehari</string>
+	<string name="declaration">Dapatkan wallpaper baru disampaikan langsung ke layar kunci Anda setiap hari secara gratis.</string>
+	<string name="declaration_lockscreen_title">Wallpaper Carousel</string>
+	<string name="declaration_title">Syarat dan Ketentuan</string>
+	<string name="hour_1">Setiap jam</string>
+	<string name="hour_3">Setiap 3 jam</string>
+	<string name="lockscreen_magazine_summary">Kategori</string>
+	<string name="lockscreen_magazine_system_title">Offline</string>
+	<string name="lockscreen_magazine_title">Wallpaper Carousel</string>
+	<string name="minutes_15">15 menit</string>
+	<string name="no_long_show">Jangan tampilkan lagi</string>
+	<string name="ok_enable_network_prov">Setuju</string>
+	<string name="ok_international">Setuju</string>
+	<string name="ok_lockscreen">Baik</string>
+	<string name="ok_network">Setuju</string>
+	<string name="resource_apply">Menerapkan</string>
+	<string name="resource_no_network_text">Tidak dapat terhubung ke jaringan.</string>
+	<string name="setting_head">Pengaturan</string>
+	<string name="sst_favor_desc">Lihat wallpaper favorit</string>
+	<string name="sst_favor_title">Favorit</string>
+	<string name="sst_grid_view_select_all">Pilih Semua</string>
+	<string name="sst_grid_view_unselect_all">Hapus semua</string>
+	<string name="sst_no_favor_wallpaper_hint">Tidak ada wallpaper di Favorit</string>
+	<string name="sst_prov_enable_desc">Aktifkan wallpaper carousel di layar kunci</string>
+	<string name="sst_prov_enable_title">Aktifkan Wallpaper Carousel</string>
+	<string name="sst_require_one_category_hint">Pilih setidaknya 1 kategori</string>
+	<string name="sst_sti_desc">Set wallpaper frekuensi update</string>
+	<string name="sst_sti_title">Frekuensi update</string>
+	<string name="sst_subscribe_title">Kategori saya</string>
+	<string name="sst_wifi_only_desc">Menonaktifkan fitur ini untuk menyimpan data seluler</string>
+	<string name="sst_wifi_only_title">Wallpaper Update menggunakan data seluler</string>
+	<string name="summary">Dengan menggunakan fitur ini, Anda setuju untuk &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Kebijakan Privasi&lt;/a&gt;. Fitur ini perlu untuk menghubungkan ke internet untuk bekerja normal. </string>
+	<string name="summary_international">Dengan menggunakan fitur ini, Anda setuju untuk &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Persetujuan Pengguna&lt;/a&gt; and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Kebijakan privasi&lt;/a&gt; fitur ini perlu terhubung ke internet untuk bekerja normal .</string>
+	<string name="theme_apply_failured">Tidak bisa berlaku, coba lagi nanti</string>
+	<string name="theme_apply_success">Kunci layar diterapkan</string>
+	<string name="theme_applying">Menerapkan ...</string>
+	<string name="wlan_download">Perbarui melalui Wi-Fi</string>
+	<string name="wlan_download_cn">Update melalui WLAN</string>
+</resources>

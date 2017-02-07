@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Layanan Wfd</string>
+  <string name="notification_text">Layar duplikat aktif</string>
+  <string name="notification_title">Tampilkan jaringan nirkabel</string>
+  <string name="perm_desc">Akses Qualcomm Wi-Fi Tampilan Stack API</string>
+  <string name="perm_label">Tampilan tumpukan QC Wi-Fi</string>
+</resources>

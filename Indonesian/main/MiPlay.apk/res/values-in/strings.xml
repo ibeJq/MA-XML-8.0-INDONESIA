@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Server media</string>
+    <string name="noti_projection_status_title">Tampilan Nirkabel Mi Play</string>
+    <string name="noti_projection_status_desc_on">Pencerminan layar hidup</string>
+    <string name="prjection_title">Tampilan nirkabel</string>
+    <string name="search_for_devices">Segarkan</string>
+    <string name="media_feature_projection">Layar cermin</string>
+    <string name="media_status_error">Bermasalah</string>
+    <string name="media_status_starting">Menghubungkan…</string>
+    <string name="media_status_started">Terhubung</string>
+    <string name="media_status_stopping">Menghentikan…</string>
+    <string name="media_status_stopped">Berhenti</string>
+    <string name="wifi_display_settings_title">Proyeksi</string>
+    <string name="wifi_display_enable_menu_item">Hidupkan Tampilan nirkabel</string>
+    <string name="wifi_display_no_devices_found">Tidak dapat menemukan perangkat di sekitar.</string>
+    <string name="wifi_display_status_connecting">Menghubungkan</string>
+    <string name="wifi_display_status_connected">Terhubung</string>
+    <string name="wifi_display_status_in_use">Sedang digunakan</string>
+    <string name="wifi_display_status_not_available">Tak tersedia</string>
+    <string name="wifi_display_details">Setelan tampilan</string>
+    <string name="wifi_display_options_title">Pilihan tampilan nirkabel</string>
+    <string name="wifi_display_options_forget">Lupakan</string>
+    <string name="wifi_display_options_done">Selesai</string>
+    <string name="wifi_display_options_name">Nama</string>
+    <string name="cancel">Batal</string>
+    <string name="enable_wifi_title">Hidupkan Wi-Fi</string>
+    <string name="enable_wifi_message">Hidupkan Wi-Fi untuk cari dan menghubungkan perangkat di sekitar.</string>
+    <string name="enable_wifi_btn">Hidupkan</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">MusicFX</string>
+  <string name="bass_boost_strength">Peningkatan bass</string>
+  <string name="ci_extreme">Penguat FX</string>
+  <string name="classical">Klasik</string>
+  <string name="combo_device">Efek hanya kompatibel dengan headphone.</string>
+  <string name="dance">Dansa</string>
+  <string name="eq_custom">Untuk menyesuaikan, pilih personal</string>
+  <string name="eq_dialog_title">Ekualizer</string>
+  <string name="flat">Datar</string>
+  <string name="folk">Umum</string>
+  <string name="headset_plug">Pasang headphone untuk efek ini.</string>
+  <string name="heavy_metal">Metal</string>
+  <string name="hip_hop">Hip Hop</string>
+  <string name="jazz">Jazz</string>
+  <string name="largehall">Ruang besar</string>
+  <string name="largeroom">Kamar besar</string>
+  <string name="main_toggle_effects_title">Efek Audio</string>
+  <string name="mediumhall">Ruang sedang</string>
+  <string name="mediumroom">Kamar sedang</string>
+  <string name="no_effects">Efek tidak tersedia.</string>
+  <string name="none">Tak ada</string>
+  <string name="normal">Normal</string>
+  <string name="picker_title">Panel kontrol efek musik</string>
+  <string name="plate">Datar</string>
+  <string name="pop">Pop</string>
+  <string name="power_on_prompt">Tekan tombol pada bagian kanan atas.</string>
+  <string name="pr_dialog_title">Reverb yang telah ditetapkan</string>
+  <string name="pr_summary">Efek reverb tambahan</string>
+  <string name="pr_title">Reverb:</string>
+  <string name="rock">Rock</string>
+  <string name="setup">Penyiapan</string>
+  <string name="smallroom">Ruang kecil</string>
+  <string name="toggle_button_off">Matikan</string>
+  <string name="toggle_button_on">Hidupkan</string>
+  <string name="user">Pengguna</string>
+  <string name="virtualizer_strength">Suara surround</string>
+</resources>

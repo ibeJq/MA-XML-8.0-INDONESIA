@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cta_permission_names">
+        <item>akses jaringan</item>
+        <item>membaca SMS</item>
+        <item>perubahan SMS</item>
+        <item>menerima SMS</item>
+        <item>mengirim SMS</item>
+        <item>panggilan telepon</item>
+        <item>membaca kontak</item>
+        <item>perubahan kontak</item>
+        <item>baca log panggilan</item>
+        <item>perubahan log panggilan</item>
+        <item>akses kamera</item>
+        <item>akses lokasi</item>
+    </string-array>
+</resources>

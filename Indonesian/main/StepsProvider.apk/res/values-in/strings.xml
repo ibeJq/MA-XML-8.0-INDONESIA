@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">StepsProvider</string>
+  <string name="permstep_description">"Memungkinkan aplikasi untuk membaca informasi langkah ponsel Anda"</string>
+  <string name="permstep_label">Baca Langkah</string>
+</resources>

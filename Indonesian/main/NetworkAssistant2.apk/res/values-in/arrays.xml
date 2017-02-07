@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="date_of_app">
+        <item>Kemarin (data)</item>
+        <item>Hari ini (data)</item>
+        <item>Bulan ini (data)</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+        <item>Kemarin (data)</item>
+        <item>Hari ini (data)</item>
+        <item>Bulan ini (data)</item>
+        <item>Wi-Fi kemarin</item>
+        <item>Wi-Fi hari ini</item>
+        <item>Wi-Fi bulan ini</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>"Kemarin "</item>
+        <item>"Hari ini "</item>
+        <item>"Bulan ini "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+        <item>"Kemarin: "</item>
+        <item>"Hari ini: "</item>
+        <item>"Bulan ini: "</item>
+     </string-array>
+     <string-array name="mi_service_traffic_type">
+        <item>"Penggunaan data seluler "</item>
+        <item>"Penggunaan Wi-Fi "</item>
+     </string-array>
+     <string-array name="network_speed_update_internals">
+        <item>3 detik</item>
+        <item>4 detik</item>
+        <item>5 detik</item>
+        <item>6 detik</item>
+        <item>7 detik</item>
+        <item>8 detik</item>
+        <item>9 detik</item>
+     </string-array>
+     <string-array name="over_limit_traffic_waring_style">
+        <item>Tampilkan peringatan</item>
+        <item>Memperingatkan dan mematikan data seluler</item>
+     </string-array>
+     <string-array name="traffic_setting_sms_template">
+        <item>Mengambil secara otomatis</item>
+        <item>Diatur secara manual</item>
+     </string-array>
+     <string-array name="traffic_sort_type">
+        <item>"Penggunaan data seluler "</item>
+        <item>"Penggunaan Wi-Fi "</item>
+        <item>"Data yang disimpan "</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Penggunaan data seluler "</item>
+        <item>"Penggunaan Wi-Fi "</item>
+        <item>"Data yang disimpan "</item>
+     </string-array>
+     <string-array name="traffic_uints">
+        <item>MB</item>
+        <item>GB</item>
+     </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Sering digunakan</item>
+        <item>Nama</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Tidak</item>
+        <item>Jatuh</item>
+        <item>Rata-rata</item>
+        <item>Tinggi</item>
+    </string-array>
+</resources>

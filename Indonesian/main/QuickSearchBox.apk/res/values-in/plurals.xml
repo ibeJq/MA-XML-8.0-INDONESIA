@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <plurals name="switch_prompt_content">
+         <item quantity="other">"Belum diizinkan pencarian %d komponen"</item>
+         <item quantity="one">"Belum diizinkan pencarian %d komponen"</item>
+     </plurals>
+ </resources>

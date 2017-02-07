@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Menjelajahi ...</item>
+        <item>Menghubungkan ...</item>
+        <item>Autentikasi ...</item>
+        <item>Mendapatkan alamat IP ...</item>
+        <item>Koneksi</item>
+        <item>Tergantung</item>
+        <item>Melepaskan ...</item>
+        <item>Terputus</item>
+        <item>Salah</item>
+        <item>Terkunci</item>
+        <item>Sementara menghindari koneksi yang buruk</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Menjelajahi ...</item>
+        <item>Menghubungkan %1$s…</item>
+        <item>Autentikasi dengan %1$s…</item>
+        <item>Mendapatkan alamat IP %1$s…</item>
+        <item>Terhubung ke %1$s</item>
+        <item>Tergantung</item>
+        <item>Memutuskan hubungan dari %1$s…</item>
+        <item>Terputus</item>
+        <item>Salah</item>
+        <item>Terkunci</item>
+        <item>Sementara menghindari koneksi yang buruk</item>
+    </string-array>
+</resources>
