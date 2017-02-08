@@ -4,7 +4,7 @@
 
 
 
-#                                    MIUI 8 XML BAHASA INDONESIA
+#                             MIUI 8 XML BAHASA INDONESIA
 BAHASA INDONESIA TRANSLATION FOR MIUI CHINA
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
