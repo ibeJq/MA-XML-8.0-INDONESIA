@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="batteryWarning_label">Pemberitahuan Baterai</string>
+  <string name="btn_cancel_msg">Menolak</string>
+  <string name="btn_ok_msg">Tidur sebentar</string>
+  <string name="msg_battery_low_temperature">Suhu baterai rendah</string>
+  <string name="msg_battery_low_temperature_nochange">baterai Anda di bawah Perhatian kisaran suhu, silakan!</string>
+  <string name="msg_battery_over_temperature">Berhati-hatilah! suhu baterai tinggi!</string>
+  <string name="msg_battery_over_temperature_nochange">baterai Anda berada di atas kisaran suhu, dinginkan baterai, silakan!</string>
+  <string name="msg_battery_over_voltage">Berhati-hatilah! Tegangan tinggi baterai!</string>
+  <string name="msg_battery_over_voltage_nochange">Suhu baterai Anda terlalu tinggi, dinginkan baterai, silakan!</string>
+  <string name="msg_charger_over_voltage">Tegangan charger Anda terlalu tinggi, lepaskan pengisi daya, silakan!</string>
+  <string name="msg_over_current_protection">Baterai Anda mungkin di atas tingkat perlindungan, dinginkan baterai, silakan!</string>
+  <string name="msg_safety_timer_timeout">Waktu pengisian terlalu lama, dinginkan baterai, silakan!</string>
+  <string name="title_battery_low_temperature">Suhu baterai rendah</string>
+  <string name="title_battery_over_temperature">Suhu baterai tinggi</string>
+  <string name="title_battery_over_voltage">Tegangan baterai tinggi</string>
+  <string name="title_charger_over_voltage">Tegangan charger tinggi</string>
+  <string name="title_over_current_protection">Melebihi tingkat perlindungan</string>
+  <string name="title_safety_timer_timeout">Waktu pengisian di luar yang ditetapkan</string>
+</resources>

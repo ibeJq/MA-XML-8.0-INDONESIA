@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_nfc_enabled">NFC diaktifkan.</string>
+  <string name="android_beam">Android Beam</string>
+  <string name="app_name">Layanan NFC</string>
+  <string name="ask_nfc_tap">Sentuh perangkat lain untuk menyelesaikan</string>
+  <string name="beam_busy">Beam sibuk. Coba lagi ketika transfer selesai ..</string>
+  <string name="beam_canceled">Masalah dibatalkan</string>
+  <string name="beam_complete">Masalah penuh</string>
+  <string name="beam_failed">Hal ini tidak selesai penerbitan</string>
+  <string name="beam_handover_not_supported">"Perangkat penerima tidak mendukung NFC mentransfer file besar."</string>
+  <string name="beam_outgoing">Memancarkan ...</string>
+  <string name="beam_progress">Transmisi yang masuk ...</string>
+  <string name="beam_requires_nfc_enabled">Android Beam membutuhkan NFC diaktifkan. Aktifkan?</string>
+  <string name="beam_touch_to_view">Ketuk untuk melihat</string>
+  <string name="beam_try_again">Memindahkan perangkat lebih dekat</string>
+  <string name="cancel">Batalkan</string>
+  <string name="complete_with">Lengkap</string>
+  <string name="confirm_pairing">Apakah Anda yakin ingin memasangkan perangkat Bluetooth %1$s?</string>
+  <string name="connect_peripheral_failed">Tidak bisa terhubung %1$s</string>
+  <string name="connected_peripheral">Koneksi %1$s</string>
+  <string name="connecting_peripheral">Menghubungkan %1$s</string>
+  <string name="could_not_use_app">"Saya tidak bisa menggunakannya %1$s."</string>
+  <string name="device">Alat</string>
+  <string name="disconnected_peripheral">Terputus %1$s</string>
+  <string name="disconnecting_peripheral">Terputus %1$s</string>
+  <string name="failed_to_enable_bt">Tidak dapat mengaktifkan Bluetooth</string>
+  <string name="inbound_me_profile_text">Sentuh untuk menambahkan orang ini sebagai kontak.</string>
+  <string name="inbound_me_profile_title">Hubungan diterima oleh NFC</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="nfc_enabled_dialog">"NFC saat ini dinonaktifkan.
+Anda ingin mengaktifkan layanan NFC"</string>
+  <string name="no">Tidak</string>
+  <string name="ok">Ya</string>
+  <string name="outbound_me_profile_text">Sentuh untuk mengirimkan informasi kontak Anda.</string>
+  <string name="outbound_me_profile_title">Interaksi NFC lengkap</string>
+  <string name="pair_no">Tidak</string>
+  <string name="pair_yes">Ya</string>
+  <string name="pairing_peripheral">Memasangkan %1$s</string>
+  <string name="pairing_peripheral_failed">Tidak dapat memasangkan %1$s</string>
+  <string name="pay_with">Membayar dengan</string>
+  <string name="permdesc_nfcReceiveEvent">Memungkinkan aplikasi untuk menerima informasi atas transaksi NFC</string>
+  <string name="permlab_nfcReceiveEvent">Pengetahuan tentang transaksi NFC</string>
+  <string name="prompt_connect_to_network">Menghubungkan ke jaringan %1$s?</string>
+  <string name="status_unable_to_connect">"Anda tidak dapat terhubung ke jaringan"</string>
+  <string name="status_wifi_connected">Koneksi</string>
+  <string name="tap_again_to_complete">Sentuh lagi untuk menyelesaikan %1$s</string>
+  <string name="tap_again_to_pay">Sentuh lagi untuk membayar dengan %1$s</string>
+  <string name="title_connect_to_network">Terhubung ke jaringan</string>
+  <string name="touch">Sentuh untuk mengirimkan</string>
+  <string name="transaction_failure">"Transaksi ini tidak dapat diselesaikan %1$s."</string>
+  <string name="wifi_connect">Menghubungkan</string>
+</resources>

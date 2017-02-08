@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="close_dialog">Terima</string>
+  <string name="error_updating_title">Kesalahan pengaturan panggilan</string>
+  <string name="exception_error">Kesalahan pada kartu SIM atau jaringan.</string>
+  <string name="fdn_check_failure">"Pengaturan aplikasi FDN ponsel diaktifkan. Mungkin, beberapa fungsi panggilan terkait tidak berfungsi."</string>
+  <string name="phone_numbers">Masukkan nomor telepon</string>
+  <string name="proceed">Proses</string>
+  <string name="radio_off_error">Menyalakan radio sebelum melihat setelan ini.</string>
+  <string name="reading_settings">Membaca pengaturan ...</string>
+  <string name="response_error">Respon jaringan terduga.</string>
+  <string name="reverting_settings">Mengembalikan pengaturan ...</string>
+  <string name="set_subscription_error_atleast_one">Pilih berlangganan</string>
+  <string name="sim1LineNumber">Semua SIM 1:</string>
+  <string name="sim2LineNumber">Semua SIM 2:</string>
+  <string name="sub1LineNumber">Semua Sub1:</string>
+  <string name="sub2LineNumber">Semua Sub2:</string>
+  <string name="sub_1">SUB 1</string>
+  <string name="sub_2">SUB 2</string>
+  <string name="sub_3">SUB 3</string>
+  <string name="sum_xdivert_disabled">Pengiriman pintar dinonaktifkan</string>
+  <string name="sum_xdivert_enabled">Pengiriman pintar diaktifkan</string>
+  <string name="updating_settings">Memperbarui pengaturan ...</string>
+  <string name="updating_title">Pengaturan panggilan</string>
+  <string name="xdivert_active">Diaktifkan</string>
+  <string name="xdivert_button">Pengaturan pengiriman pintar</string>
+  <string name="xdivert_enternumber_error">Masukkan nomor telepon untuk langganan</string>
+  <string name="xdivert_imsi_not_read">Inisiasi SIM. Silahkan coba setelah beberapa waktu.</string>
+  <string name="xdivert_not_active">Tidak aktif</string>
+  <string name="xdivert_not_supported">Pengiriman pintar tidak didukung untuk CDMA</string>
+  <string name="xdivert_partial_set">Pengalihan pintar telah ditetapkan untuk berlangganan pertama saja</string>
+  <string name="xdivert_setting">Pengaturan pengiriman pintar</string>
+  <string name="xdivert_setting_primary_user_only">Pengalihan pintar tidak kompatibel dengan pengguna lain.</string>
+  <string name="xdivert_status">Pengiriman pintar negara </string>
+  <string name="xdivert_status_active">Pengiriman pintar diaktifkan</string>
+  <string name="xdivert_status_not_active">Pengiriman pintar dinonaktifkan</string>
+  <string name="xdivert_sub_absent">Kedua langganan harus diaktifkan untuk memproses pengiriman pintar</string>
+  <string name="xdivert_summary">Panggilan ke depan tidak tersedia</string>
+  <string name="xdivert_title">Pengiriman pintar</string>
+</resources>
