@@ -67,8 +67,7 @@
     <string name="sync_dspt_provision">"Sinkron foto, kontak, catatan Anda, dll. antar semua perangkat Anda atau akses mereka di "</string>
     <string name="sync_dspt_provision2">i.mi.com</string>
     <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-    <string name="sync_dspt_provision3">". Anda dapat hidup atau matikan fitur ini kapan saja di Setelan.
-"</string>
+    <string name="sync_dspt_provision3">". Anda dapat hidup atau matikan fitur ini kapan saja di Setelan."</string>
     <string name="sync_dspt_entrance_provision">"Sinkron foto, kontak, riwayat panggilan, dan pesan antar perangkat Anda. Akses data yang Anda sinkron dari browser mana pun di %s. "</string>
     <string name="sync_dspt_entrance_provision_2">Pelajari lebih lanjut</string>
     <string name="sync_dspt_entrance_provision_confirm_close">Jangan gunakan</string>
@@ -82,22 +81,13 @@
     <string name="find_device_dspt_provision_3">. Anda dapat hidup atau matikan fitur ini kapan saja di Setelan.</string>
     <string name="find_device_dspt_provision_4">Jika Anda ganti kartu SIM, SMS aktivasi ulang fitur ini akan otomatis dikirim.</string>
     <string name="find_device_send_sms_alert">Jika Anda mengganti kartu SIM, sebuah SMS akan otomatis dikirim untuk aktivasi ulang fitur ini.</string>
-    <string name="mx_dspt_provision">"Mi Message memungkinkan Anda untuk kirim pesan ke perangkat MIUI lain tanpa dikenai biaya saat terhubung ke Wi-Fi.
-
-Anda dapat hidupkan atau matikan fitur ini kapan saja di Setelan."</string>
+    <string name="mx_dspt_provision">"Mi Message memungkinkan Anda untuk kirim pesan ke perangkat MIUI lain tanpa dikenai biaya saat terhubung ke Wi-Fi.Anda dapat hidupkan atau matikan fitur ini kapan saja di Setelan."</string>
     <string name="mx_dspt_provision_with_voip">Gratis panggil perangkat MIUI lainnya menggunakan koneksi internet. Anda dapat hidupkan dan matikan fitur ini kapan saja di Setelan. VoIP didukung oleh Weihui. Lihat Kebijakan Privasi Weihui</string>
     <string name="mx_dspt_provision_with_voip2">Kebijakan Privasi</string>
-    <string name="mx_dspt_provision_privacy">"This feature may require your phone number. An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.
-
-This feature encrypts and sends your device's ID to Mi's servers."</string>
-    <string name="mx_dspt_provision_privacy_2_sim">"This feature may require your phone number. 2 outgoing SMS messages may be required to activate this service. Your carrier will charge you for these messages.
-
-This feature encrypts and sends your device's ID to Mi's servers."</string>
-    <string name="mx_dspt_provision_privacy_no_sim">"This feature may require your phone number. When SIM card is detected, an outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.
-
-This feature encrypts and sends your device's ID to Mi's servers."</string>
-    <string name="user_agreement_p5">"
-"</string>
+    <string name="mx_dspt_provision_privacy">"This feature may require your phone number. An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. This feature encrypts and sends your device's ID to Mi's servers."</string>
+    <string name="mx_dspt_provision_privacy_2_sim">"This feature may require your phone number. 2 outgoing SMS messages may be required to activate this service. Your carrier will charge you for these messages. This feature encrypts and sends your device's ID to Mi's servers."</string>
+    <string name="mx_dspt_provision_privacy_no_sim">"This feature may require your phone number. When SIM card is detected, an outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. This feature encrypts and sends your device's ID to Mi's servers."</string>
+    <string name="user_agreement_p5">" "</string>
     <string name="user_agreement_p6">"Dengan menggunakan layanan ini, Anda menyetujui "</string>
     <string name="user_agreement_p7">Persyaratan Layanan Mi Cloud</string>
     <string name="user_agreement_p8">.</string>
@@ -124,8 +114,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
     <string name="find_device_success_title">Cari perangkat</string>
     <string name="find_device_notice_p1">Pergi ke</string>
     <string name="find_device_notice_p2">i.mi.com</string>
-    <string name="find_device_notice_p3">"untuk menemukan, kunci, atau memulihkan telepon Anda.
-Jika Anda ganti kartu SIM, SMS aktivasi ulang fitur ini akan otomatis dikirim."</string>
+    <string name="find_device_notice_p3">"untuk menemukan, kunci, atau memulihkan telepon Anda. Jika Anda ganti kartu SIM, SMS aktivasi ulang fitur ini akan otomatis dikirim."</string>
     <string name="i_know">Oke</string>
     <string name="find_device_disabled_title">Cari perangkat nonaktif</string>
     <string name="find_device_disabled_notice">Anda dapat hidup atau matikan fitur ini pada Setelan Mi Cloud.</string>
@@ -166,8 +155,7 @@ Jika Anda ganti kartu SIM, SMS aktivasi ulang fitur ini akan otomatis dikirim."<
     <string name="micloud_space_full_influence"><u>Apa yg terjadi saat kehabisan ruang?</u></string>
     <string name="micloud_storage_usage" formatted="false">Terpakai %s/Total ruang %s</string>
     <string name="micloud_storage_full">Cloud penuh</string>
-    <string name="micloud_title_dspt" formatted="false">"%s total
- %s terpakai | %s tersisa"</string>
+    <string name="micloud_title_dspt" formatted="false">"%s total %s terpakai | %s tersisa"</string>
     <string name="micloud_title_dspt_remain">%s tersisa</string>
     <string name="micloud_title_full_dspt">Anda telah mencapai batas penyimpanan</string>
     <string name="micloud_user_space_usage">Ruang Penyimpanan</string>
@@ -184,13 +172,7 @@ Jika Anda ganti kartu SIM, SMS aktivasi ulang fitur ini akan otomatis dikirim."<
     <string name="micloud_storage_expires_very_soon_title">Penyimpanan Mi Cloud segera berakhir</string>
     <string name="micloud_storage_expires_auto_renewal_sum">Anda perlu perbarui langganan Anda.</string>
     <string name="micloud_storage_expires_manually_renewal_sum">Anda perlu perbarui langganan Anda.</string>
-    <string name="micloud_full_influence_dspt">"Semua foto, video, catatan, dan apl Anda akan tetap dicadangkan di cloud. 
-
-Dengan ini, jika perangkat hilang atau rusak, data Anda tetap aman. 
-
-Saat cloud penuh, data lama Anda tetap ada. Namun, isi baru yang Anda tambahkan (contoh: foto, video, catatan, dan apl) tak akan dicadangkan.
-
-Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat ruang bagi yang baru atau dapat membeli ruang penyimpanan tambahan."</string>
+    <string name="micloud_full_influence_dspt">"Semua foto, video, catatan, dan apl Anda akan tetap dicadangkan di cloud. Dengan ini, jika perangkat hilang atau rusak, data Anda tetap aman. Saat cloud penuh, data lama Anda tetap ada. Namun, isi baru yang Anda tambahkan (contoh: foto, video, catatan, dan apl) tak akan dicadangkan. Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat ruang bagi yang baru atau dapat membeli ruang penyimpanan tambahan."</string>
     <string name="micloud_upgrade_space">Beli ruang</string>
     <string name="enable_sync_dspt">Jangan sinkron</string>
     <string name="enable_sync">Sinkron</string>
@@ -260,7 +242,6 @@ Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat
     <string name="micloud_main_query_error_message">Tak dpt konfirmasi apakah sinkron sudah selesai utk beberapa layanan</string>
     <string name="micloud_main_multi_user_error_title">Mi Cloud bermasalah</string>
     <string name="micloud_main_multi_user_error_message">"Anda masuk dengan akun yang sama di Ruang pertama, yang mengakibatkan Mi Cloud bermasalah. Jika Anda ingin mencadangkan berkas:
-
 1. Gunakan akun yang berbeda.
 2. Pindahkan berkas ke Ruang pertama."</string>
     <string name="micloud_detail_syncing">Menyinkron</string>
@@ -286,11 +267,9 @@ Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat
     <string name="micloud_detail_battery_low_message">Baterai lemah. Isi daya dan sinkron.</string>
     <string name="micloud_detail_depend_wifi_title">Butuh Wi-Fi</string>
     <string name="micloud_detail_depend_wifi_message">Harap hubungkan ke Wi-Fi atau cek setelan sinkron.</string>
-    <string name="micloud_check_sim_title">"Sepertinya Anda ganti kartu SIM.  Masuk ke
-Akun Mi untuk aktivasi ulang Mi Cloud."</string>
+    <string name="micloud_check_sim_title">"Sepertinya Anda ganti kartu SIM.  Masuk ke Akun Mi untuk aktivasi ulang Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Aktivasi ulang Mi Cloud</string>
-    <string name="micloud_check_sim_notify_text">"Sepertinya Anda ganti kartu SIM.  Masuk ke
-Akun Mi untuk aktivasi ulang Mi Cloud."</string>
+    <string name="micloud_check_sim_notify_text">"Sepertinya Anda ganti kartu SIM.  Masuk ke Akun Mi untuk aktivasi ulang Mi Cloud."</string>
     <string name="micloud_setting_contact_summary">Info kontak dan foto profil</string>
     <string name="micloud_setting_sms_summary">Pesan SMS dan MMS</string>
     <string name="micloud_setting_gallery_summary">Foto dan video</string>
@@ -336,14 +315,10 @@ Akun Mi untuk aktivasi ulang Mi Cloud."</string>
     <string name="loading_hint">Memuat</string>
     <string name="buy_space_expire">Ruang yg dibeli akan berakhir dlm %s</string>
     <string name="buy_space_expire_concat">%1$s sampai %2$s</string>
-    <string name="buy_more_space_b_class">"Masuk ke mi.com/micloud untuk mendapatkan ruang penyimpanan ekstra.
-Anda butuh kartu bank Cina untuk membeli ruang penyimpanan ekstra."</string>
-    <string name="buy_more_space_c_class">"Fitur ini memerlukan kartu bank Cina.
-Untuk mendapatkan ruang penyimpanan ekstra, kunjungi mi.com/micloud."</string>
+    <string name="buy_more_space_b_class">"Masuk ke mi.com/micloud untuk mendapatkan ruang penyimpanan ekstra. Anda butuh kartu bank Cina untuk membeli ruang penyimpanan ekstra."</string>
+    <string name="buy_more_space_c_class">"Fitur ini memerlukan kartu bank Cina. Untuk mendapatkan ruang penyimpanan ekstra, kunjungi mi.com/micloud."</string>
     <string name="micloud_member_buy_title">Konfirmasi pesanan</string>
-    <string name="micloud_member_buy_content" formatted="false">"Berlaku sampai %s-%s-%s
-
-%s Mi Credit"</string>
+    <string name="micloud_member_buy_content" formatted="false">"Berlaku sampai %s-%s-%s %s Mi Credit"</string>
     <string name="micloud_member_net_error_alert_title">Tidak dapat terhubung ke jaringan</string>
     <string name="micloud_member_net_error_alert_message">Anda tidak memiliki koneksi internet.</string>
     <string name="micloud_member_pay_fail_toast">Tidak dapat menyelesaikan pembayaran</string>
@@ -364,8 +339,7 @@ Untuk mendapatkan ruang penyimpanan ekstra, kunjungi mi.com/micloud."</string>
     <string name="header_cloud_restore_summary">Instal ulang apl dan pulihkan tata letak Layar utama dan setelan sistem dari cadangan di Mi Cloud</string>
     <string name="settings_backup_title">Cadangkan setelan sistem</string>
     <string name="cloud_back_up_open_info_no_backuptime">Cadangkan apl saat terhubung ke Wi-Fi setiap %1$s</string>
-    <string name="cloud_back_up_open_info">"Cadangkan apl saat terhubung ke Wi-Fi setiap %1$s
-Pencadangan terakhir %2$s"</string>
+    <string name="cloud_back_up_open_info">"Cadangkan apl saat terhubung ke Wi-Fi setiap %1$s Pencadangan terakhir %2$s"</string>
     <string name="cloud_back_up_summary">Cadangkan saat terhubung ke Wi-Fi</string>
     <string name="cloud_back_up_close_info">Ketuk untuk cadangkan.</string>
     <string name="cloud_backup_dialog_title">Cadangkan dengan Mi Cloud</string>
@@ -439,10 +413,8 @@ Pencadangan terakhir %2$s"</string>
     <string name="micloud_notif_content_clipboard_push">Anda dapat tempel di mana saja.</string>
     <string name="micloud_notif_title_multi_user_error">Tidak bisa sinkron dengan Mi Cloud</string>
     <string name="micloud_notif_content_multi_user_error">Anda masuk dengan akun yang sama di Ruang pertama.</string>
-    <string name="micloud_find_device_guide_title">"Masuk ke %s untuk menemukan, kunci,
-atau hapus perangkat Anda."</string>
-    <string name="micloud_find_device_guide_content">"Saat Anda mengganti kartu SIM, sebuah SMS akan otomatis dikirim
-untuk aktivasi ulang fitur ini."</string>
+    <string name="micloud_find_device_guide_title">"Masuk ke %s untuk menemukan, kunci, atau hapus perangkat Anda."</string>
+    <string name="micloud_find_device_guide_content">"Saat Anda mengganti kartu SIM, sebuah SMS akan otomatis dikirim untuk aktivasi ulang fitur ini."</string>
     <string name="micloud_find_device_guide_button">Hidupkan Cari perangkat</string>
     <string name="micloud_find_device_guide_progress">Menghidupkan Cari perangkat…</string>
     <string name="micloud_find_device_opened">Cari perangkat dihidupkan</string>
