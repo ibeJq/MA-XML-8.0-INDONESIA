@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ster_mon_entries">
+        <item>Stereo</item>
+        <item>Mono</item>
+    </string-array>
+    <string-array name="record_durations_entries">
+        <item>5 Menit</item>
+        <item>15 Menit</item>
+        <item>30 Menit</item>
+        <item>Tak terbatas</item>
+    </string-array>
+    <string-array name="record_path_entries">
+        <item>Telepon</item>
+        <item>Kartu SD</item>
+    </string-array>
+    <string-array name="search_category_rbds_entries">
+        <item>Semua saluran</item>
+    </string-array>
+    <string-array name="search_category_rds_entries">
+        <item>semua stasiun</item>
+    </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Mengubah nama</item>
+        <item>Otomatis</item>
+        <item>Menghapus</item>
+    </string-array>
+    <string-array name="regional_band_entries">
+        <item>Amerika Utara</item>
+        <item>Eropa</item>
+        <item>Jepang</item>
+        <item>Jepang (lebar)</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Belgia</item>
+        <item>Brazil</item>
+        <item>Cina</item>
+        <item>Ceko</item>
+        <item>Denmark</item>
+        <item>Finlandia</item>
+        <item>Prancis</item>
+        <item>Jerman</item>
+        <item>Yunani</item>
+        <item>HongKong</item>
+        <item>India</item>
+        <item>Irlandia</item>
+        <item>Itali</item>
+        <item>Korea</item>
+        <item>Meksiko</item>
+        <item>Belanda</item>
+        <item>Selandia Baru</item>
+        <item>Norwegia</item>
+        <item>Polandia</item>
+        <item>Portugal</item>
+        <item>Rusia</item>
+        <item>Singapura</item>
+        <item>Slovakia</item>
+        <item>Spanyol</item>
+        <item>Swiss</item>
+        <item>Swedia</item>
+        <item>Taiwan</item>
+        <item>Turki</item>
+        <item>Inggris Raya</item>
+        <item>Amerika Serikat</item>
+        <item>Vietnam</item>
+        <item>Thailand</item>
+        <item>Indonesia</item>
+    </string-array>
+    <string-array name="regional_band_summary">
+        <item>Amerika Utara (87.5MHz To 108.0MHz In 200 Khz Steps)</item>
+        <item>Eropa (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Jepang (76.0MHz To 90.0MHz In 100 Khz Steps)</item>
+        <item>Jepang (lebar) (90.0MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Australia (87.7MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Austria (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Belgia (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Brazil (87.8MHz To 108.0MHz In 200 Khz Step)</item>
+        <item>Cina (87.0MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Ceko (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Denmark (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Finlandia (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Prancis (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Jerman (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Yunani (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>HongKong (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>India (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Irlandia (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Itali (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Korea (87.5MHz To 108.0MHz In 200 Khz Steps)</item>
+        <item>Meksiko (88.1MHz To 107.9MHz In 200 Khz Steps)</item>
+        <item>Belanda (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Selandia Baru (88.0MHz To 107.0MHz In 100 Khz Steps)</item>
+        <item>Norwegia (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Polandia (88.0MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Portugal (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Rusia (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Singapura (88.0MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Slovakia (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Spanyol (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Swiss (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Swedia (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Taiwan (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Turki (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Inggris Raya (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Amerika Serikat (88.1MHz To 107.9MHz In 200 Khz Steps)</item>
+        <item>Vietnam (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
+        <item>Thailand (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+        <item>Indonesia (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
+    </string-array>
+    <string-array name="rf_cfg">
+        <item>Mendapatkan parameter Stasiun saat ini</item>
+        <item>Mendapatkan Stasiun parameter Ulangi 20 kali</item>
+        <item>Mendapatkan pencarian Parameter Stasiun</item>
+        <item>Mendapatkan saluran FM menyapu parameter</item>
+        <item>Mengkonfigurasi parameter pencarian FM</item>
+    </string-array>
+    <string-array name="cfg_rf">
+        <item>Mengatur Delta FM RSSI</item>
+        <item>Menetapkan Threshold sinyal</item>
+        <item>RF Statistik</item>
+    </string-array>
+    <string-array name="stats_options">
+        <item>Pilih opsi</item>
+        <item>Parameter mengkonfigurasi FM pencarian</item>
+        <item>RF Statistik</item>
+    </string-array>
+</resources>

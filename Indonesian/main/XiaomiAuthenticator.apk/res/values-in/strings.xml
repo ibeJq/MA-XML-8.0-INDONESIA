@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_preference_screen_title">tentang</string>
+  <string name="about_preference_title">tentang</string>
+  <string name="acknowledge_btn">aku tahu itu</string>
+  <string name="action_settings">pengaturan</string>
+  <string name="activation_page">tidak diaktifkan</string>
+  <string name="activation_page_btn_txt">Aktifkan</string>
+  <string name="activation_page_info">mengidentifikasi akun Anda untuk mengaktifkan identifikasi aman</string>
+  <string name="add_account_menu_item">Tambah akun</string>
+  <string name="app_name">Authenticator Xiaomi</string>
+  <string name="app_name_lockpattern">mengunci pola</string>
+  <string name="app_name_short">Authenticator</string>
+  <string name="authenticator_invalid_tip">Anda telah mampu mematikan fitur ini menggunakan desktop browser atau mengaktifkan token keamanan lain</string>
+  <string name="authenticator_invalid_title">akun: token keamanan %1$s telah berakhir</string>
+  <string name="authenticator_page_reactivation">mengaktifkan kembali</string>
+  <string name="button_add_account">tambahkan akun</string>
+  <string name="button_add_account_manual_entry">menambahkan akun secara manual</string>
+  <string name="button_add_account_scan_barcode">memindai kode bar</string>
+  <string name="button_back">kembali</string>
+  <string name="button_exit_howitworks_flow">keluar</string>
+  <string name="button_how_it_works">melihat cara kerjanya</string>
+  <string name="button_next">berikutnya</string>
+  <string name="button_uninstall_old_app">uninstall</string>
+  <string name="cancel">membatalkan</string>
+  <string name="change_security_lock">ganti layar kunci</string>
+  <string name="check_code">untuk memeriksa bahwa Anda memiliki tombol yang tepat untuk %1$s memeriksa bahwa nilai sesuai Integritas Periksa yang disediakan oleh server:&lt;br/&gt;</string>
+  <string name="check_code_menu_item">Periksa kunci</string>
+  <string name="check_code_title">Periksa nilai integritas</string>
+  <string name="continue_btn">Lanjutkan</string>
+  <string name="copy_to_clipboard">salin ke Clipboard</string>
+  <string name="correct_enter_password">password yang Anda masukkan benar</string>
+  <string name="correct_enter_update_password">password yang Anda masukkan benar</string>
+  <string name="counter_pin">Dapatkan kode</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">data telah diimpor dengan sukses implementasi Xiaomi Authenticator yang usang. Sekarang aman untuk menghapus versi sebelumnya dari aplikasi dengan mengklik di bawah ini.</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_title">impor berhasil</string>
+  <string name="decoding_exception">pengecualian membaca sandi</string>
+  <string name="details_patternforgotten">"restart:
+Diidentifikasi dalam account.xiaomi.com dan klik reactivate."</string>
+  <string name="enter_account_label">Masukkan nama akun</string>
+  <string name="enter_key_hint">Masukkan sandi</string>
+  <string name="enter_key_illegal_char">kunci berisi karakter yang tidak valid</string>
+  <string name="enter_key_page_add_button">Tambahkan</string>
+  <string name="enter_key_title">Masukkan kunci</string>
+  <string name="enter_key_too_short">kuncinya terlalu pendek</string>
+  <string name="enter_pin">Masukkan kode verifikasi ini jika diminta untuk memulai sesi:</string>
+  <string name="error_empty_secret">mampu untuk menyimpan rahasia kosong</string>
+  <string name="error_exists">Maaf, nama ini telah digunakan.</string>
+  <string name="error_qr">QR tidak dapat ditafsirkan.</string>
+  <string name="error_title">kesalahan</string>
+  <string name="error_uri">kunci tidak diakui.</string>
+  <string name="forget_password">&lt;u&gt;Olvidó la clave&lt;/u&gt;</string>
+  <string name="general_security_exception">pengecualian keamanan umum</string>
+  <string name="gif_not_support_camera_msg">perangkat tidak mendukung perekaman video.</string>
+  <string name="how_it_works_menu_item">cara kerjanya</string>
+  <string name="howitworks_page_enter_code_details">aplikasi ini akan menghasilkan kode yang diperlukan untuk masuk</string>
+  <string name="howitworks_page_enter_code_title">"Jika Anda memiliki komputer baru, harap masukkan kode dari telepon Anda."</string>
+  <string name="howitworks_page_enter_password_details">"Namun, jika Anda pada komputer baru atau perangkat, Xiaomi meminta kode khusus untuk memastikan bahwa ini adalah benar-benar Anda"</string>
+  <string name="howitworks_page_enter_password_title">"Untuk masuk, masukkan sandi Anda."</string>
+  <string name="howitworks_page_verify_device_details">"Anda juga dapat memilih untuk mengingat komputer dan Xiaomi tidak meminta kode lagi."</string>
+  <string name="howitworks_page_verify_device_title">"Anda login."</string>
+  <string name="install_button">menginstal</string>
+  <string name="install_dialog_message">untuk memindai barcode yang mengandung key, harus menginstal scanner barcode ZXing.</string>
+  <string name="install_dialog_title">menginstal barcode scanner?</string>
+  <string name="jump_createpattern_tip">buat sandi untuk melindungi akun Anda</string>
+  <string name="jump_lockpattern_title">perhatian</string>
+  <string name="jump_updatepattern_tip">buat sandi untuk melindungi akun Anda</string>
+  <string name="lockpassword_choose_your_pattern_header">pilih pola Anda</string>
+  <string name="lockpassword_confirm_your_pattern_header">mengkonfirmasi pola Anda</string>
+  <string name="lockpassword_input_your_pattern_header">mengkonfirmasi pola Anda</string>
+  <string name="lockpattern_confirm_button_text">konfirmasi</string>
+  <string name="lockpattern_continue_button_text">Lanjutkan</string>
+  <string name="lockpattern_need_to_confirm">lagi menarik pola untuk mengkonfirmasi</string>
+  <string name="lockpattern_need_to_confirm_wrong">Konsisten dengan posting sebelumnya, silahkan memasukkannya kembali:</string>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;kunci yang salah, dapat mencoba %d lain kali&lt;/font&gt;</string>
+  <string name="lockpattern_pattern_confirmed_header">baru membuka:</string> pola
+  <string name="lockpattern_pattern_entered_header">pola terukir.</string>
+  <string name="lockpattern_recording_incorrect_too_short">menghubungkan setidaknya %d poin. Coba lagi:</string>
+  <string name="lockpattern_recording_inprogress">mengangkat jari Anda ketika Anda sudah selesai.</string>
+  <string name="lockpattern_recording_intro_header">menggambar pola membuka:</string>
+  <string name="lockpattern_redraw_button_text">menggambar ulang</string>
+  <string name="lockpattern_retry_text">kembali kunci pola</string>
+  <string name="lockpattern_settings_help_how_to_record">Bagaimana Menggambar pola membuka</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">coba lagi dalam %d detik.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;terlalu banyak usaha yang gagal!&lt;/font&gt;</string>
+  <string name="lockpattern_tutorial_cancel_label">membatalkan</string>
+  <string name="lockpattern_tutorial_close_label">tutup</string>
+  <string name="lockpattern_tutorial_continue_label"> berikutnya</string>
+  <string name="lockpattern_tutorial_jump_label">melompat</string>
+  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;lupa password untuk pola&lt;/u&gt;</string>
+  <string name="login">masuk</string>
+  <string name="main_preference_screen_title">pengaturan</string>
+  <string name="mycard_scan_barcode">MyID kode scanner</string>
+  <string name="new_pattern_tip">password Anda harus lebih dari 4 karakter</string>
+  <string name="ok">OK</string>
+  <string name="ok_button">OK</string>
+  <string name="open_camera_exception_dialog_content">masalah dengan kamera. Sangat mungkin bahwa Anda harus me-restart perangkat</string>
+  <string name="open_camera_exception_dialog_title">kamera bug</string>
+  <string name="opensource_preference_title">proyek sumber terbuka</string>
+  <string name="original_pattern_tip">Masukkan pola membuka kunci</string>
+  <string name="password_error">memasukan password tidak benar</string>
+  <string name="password_forget">lupa password Anda?</string>
+  <string name="password_hint">silakan masukkan akun dan sandi</string>
+  <string name="privacy_preference_title">kebijakan privasi</string>
+  <string name="progress_loading">pengolahan...</string>
+  <string name="remove_Xiaomi_account_dialog_message">menghilangkan akun ini &lt;b&gt;menghapus&lt;/b&gt; kemampuan untuk menghasilkan kode, namun &lt;b&gt;tidak&lt;/b&gt; menonaktifkan verifikasi 2-pass. Hal ini dapat mencegah mengakses akun Anda. Sebelum menghapus: menonaktifkan verifikasi 2-langkah untuk akun ini, atau pastikan bahwa Anda memiliki mekanisme alternatif untuk menghasilkan kode.</string>
+  <string name="remove_account">menghapus akun</string>
+  <string name="remove_account_dialog_message">"menghapus akun ini akan menghilangkan kemampuan mereka untuk membuat kode. Hal ini dapat mencegah Anda diidentifikasi dalam akun Anda.
+
+Sebelum menghapus:
+-Menonaktifkan otentikasi dalam 2 langkah untuk akun ini, atau
+-Pastikan bahwa Anda memiliki mekanisme alternatif untuk menghasilkan kode."</string>
+  <string name="remove_account_dialog_title">menghapus %1$s?</string>
+  <string name="rename">mengubah nama</string>
+  <string name="rename_message">mengubah nama %1$s</string>
+  <string name="resetbtn_patternforgotten">reset</string>
+  <string name="save_key_message">Simpan kunci</string>
+  <string name="scan_barcode">scan MyID</string>
+  <string name="scan_barcode_info">menempatkan dan memindai barcode MyID dalam viewer ini.</string>
+  <string name="secret_saved">dirahasiakan</string>
+  <string name="security_setting">pengaturan keamanan</string>
+  <string name="settings_menu_item">pengaturan</string>
+  <string name="submit">Simpan</string>
+  <string name="success_copy_to_clipboard">disalin ke Clipboard</string>
+  <string name="success_reset_password">pulihkan sandi berhasil</string>
+  <string name="success_set_password">membuat sandi</string>
+  <string name="summary_lockpattern">perlu sebuah pola yang unik untuk MiCredit</string>
+  <string name="terms_preference_title">persyaratan layanan</string>
+  <string name="timesync_about_feature_preference_title">tentang fitur ini</string>
+  <string name="timesync_about_feature_screen_details">"jika Anda tekan &amp;quot;Menyinkronkan sekarang&amp;quot;, Authenticator akan berusaha untuk menyinkronkan jam internal dengan server Google. Pengaturan tanggal dan waktu perangkat yang tidak dapat diubah. &lt;p&gt; Authenticator tidak mengirimkan informasi pribadi atau informasi akun saat mensinkronisasi jam internal dengan server Google. &lt;p&gt; &lt;b&gt;apakah ini sangat bermanfaat?&lt;/b&gt; &lt;p&gt; Authenticator menghasilkan 2-pass verifikasi kode 1) arus berbasis waktu, dan 2) kode rahasia yang diketahui oleh aplikasi dan server. &lt;p&gt; jika Authenticator dan server tidak sesuai dalam waktu, kode yang dihasilkan oleh aplikasi tidak akan diterima ketika Anda mencoba untuk masuk. &lt;p&gt;secara default Authenticator menggunakan pengaturan tanggal dan waktu perangkat, dan dalam sebagian besar kasus Anda akan mampu menghasilkan kode yang berlaku, pastikan bahwa pengaturan waktu, tanggal, dan zona waktu dikonfigurasi dengan benar. Namun, ketika waktu mismatches terjadi, dapat menjadi sulit untuk memecahkan (terutama jika Anda menggunakan waktu yang disediakan oleh jaringan atau zona waktu)."</string>
+  <string name="timesync_about_feature_screen_title">tentang fitur ini</string>
+  <string name="timesync_preference_screen_summary">"Sinkronisasi jam Authenticator dengan server"</string>
+  <string name="timesync_preference_screen_title">koreksi tanggal-waktu untuk kode</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_details">"ada masalah menghubungi server. Periksa pengaturan jaringan Anda dan coba lagi."</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_title">sinkronisasi sekarang</string>
+  <string name="timesync_sync_now_preference_title">sinkronisasi sekarang</string>
+  <string name="timesync_sync_now_progress_dialog_details">menghubungkan ke server...</string>
+  <string name="timesync_sync_now_progress_dialog_title">sinkronisasi sekarang</string>
+  <string name="timesync_sync_now_screen_title">sinkronisasi sekarang</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_details">"jam Authenticator tidak disesuaikan karena sudah sinkron dengan server."</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_title">sudah benar tanggal-waktu</string>
+  <string name="timesync_sync_now_time_corrected_dialog_details">"jam Authenticator telah disesuaikan bertepatan dengan waktu yang disediakan oleh server.
+
+Tanggal dan waktu pada pengaturan perangkat ini tidak pernah berubah."</string>
+  <string name="timesync_sync_now_time_corrected_dialog_title">mengoreksi tanggal-waktu</string>
+  <string name="tip1_patternforgotten">menginstal dan mengaktifkan kembali</string>
+  <string name="tip2_patternforgotten">menyentuh tombol di bawah "Reboot sekarang" untuk benar-benar me-reset akun. Anda akan perlu untuk mengaktifkan itu kembali</string>
+  <string name="tip_lockpattern">password Anda harus lebih dari 4 karakter</string>
+  <string name="title_change_lockpattern">menetapkan pola kunci</string>
+  <string name="title_createpattern">membuat sandi</string>
+  <string name="title_forgetpattern">lupa password</string>
+  <string name="title_gesture">mengunci pola</string>
+  <string name="title_lockpattern">perlu mengunci pola</string>
+  <string name="title_myaccount">akun: %s</string>
+  <string name="title_nopassword">tidak diperlukan untuk pembayaran kecil</string>
+  <string name="title_nopassword_dialog">batas harian</string>
+  <string name="title_password">sandi</string>
+  <string name="title_password_threshold">batas harian = ￥%1$s</string>
+  <string name="title_patternforgotten">"lupa password Anda?
+Anda dapat: "</string>
+  <string name="title_updatepattern">mengubah sandi</string>
+  <string name="title_visible_pattern">membuat pola yang terlihat</string>
+  <string name="type_prompt">jenis kunci</string>
+  <string name="update_pattern_jump">&lt;u&gt;menghapus sandi&lt;/u&gt;</string>
+  <string name="version_preference_title">versi</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;jika mereka menghapus Token keamanan saya, itu tidak akan mampu mengidentifikasi akun."</string>
+  <string name="welcome_page_details">"-akun Anda tetap aman.
+-Untuk mencegah orang lain menggunakan perangkat anda, mereka akan diidentifikasi dalam akun."</string>
+  <string name="welcome_page_title">menggunakan ini untuk identifikasi aman</string>
+</resources>
