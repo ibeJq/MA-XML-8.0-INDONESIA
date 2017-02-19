@@ -595,8 +595,7 @@ Upaya dibuat: %s."</string>
     <string name="storage_dialog_database">Basis data:</string>
     <string name="storage_dialog_available_space">Ruang tersedia:</string>
     <string name="storage_unavailable">Tak ada ruang tersedia</string>
-    <string name="security_alert_desc"><font color="#7f000000">"Nama pengirim tidak ada di dalam kontak Anda.
- "</font></string>
+    <string name="security_alert_desc"><font color="#7f000000">"Nama pengirim tidak ada di dalam kontak Anda."</font></string>
     <string name="security_alert_desc_highlight">Laporkan nomor ini</string>
     <string name="security_alert_dialog_title">Lapor</string>
     <string name="security_alert_dialog_desc">Kirim nomor ini (%s) dan pesan ke Xiaomi untuk ditinjau.</string>

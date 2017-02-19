@@ -16,7 +16,7 @@
     <string name="passport_uplink_reg">Gunakan nomor telepon</string>
     <string name="passport_uplink_slot1_reg">Gunakan SIM 1</string>
     <string name="passport_uplink_slot2_reg">Gunakan SIM 2</string>
-    <string name="passport_reg_via_sms_alert">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
+    <string name="passport_reg_via_sms_alert">Pesan SMS keluar mungkin diperlukan untuk mengaktifkan layanan ini. operator Anda akan mengenakan biaya untuk pesan ini.</string>
     <string name="passport_reg_using_other_phone"><u>Gunakan nomor telepon alternatif</u></string>
     <string name="passport_reg_btn_using_other_phone">Gunakan nomor telepon alternatif</string>
     <string name="passport_downlink_reg">Buat akun dengan nomor telepon</string>
