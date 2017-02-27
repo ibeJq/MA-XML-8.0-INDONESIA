@@ -23,8 +23,7 @@
     <string name="expire_on">Kedaluwarsa: %s</string>
     <string name="kilobyte">KB</string>
     <string name="undelivered_msg_dialog_title">Pesan tidak terkirim</string>
-    <string name="undelivered_msg_dialog_body">"Tidak dapat kirim pesan ini.
-Upaya dibuat: %s."</string>
+    <string name="undelivered_msg_dialog_body">"Tidak dapat kirim pesan ini. Upaya dibuat: %s."</string>
     <string name="undelivered_sms_dialog_body">Tidak dapat kirim pesan ini.</string>
     <string name="menu_forward">Teruskan</string>
     <string name="download">Unduh</string>
@@ -648,10 +647,8 @@ Upaya dibuat: %s."</string>
     <string name="url_scanning">Memeriksa URL…</string>
     <string name="url_result_safe">URL ini aman</string>
     <string name="url_fraud_title">Situs Web bisa saja palsu</string>
-    <string name="url_fraud_risky_alert">"Situs Web yang Anda coba kunjungi mungkin saja berbahaya. Yakinkah Anda ingin mengunjunginya?
-%s"</string>
-    <string name="url_fraud_dangerous_alert">"Tunggu, situs web yang Anda coba kunjungi mungkin saja berbahaya. Kemungkinan akan merusak perangkat dan data Anda. Tetap kunjungi?
-%s"</string>
+    <string name="url_fraud_risky_alert">"Situs Web yang Anda coba kunjungi mungkin saja berbahaya. Yakinkah Anda ingin mengunjunginya? %s"</string>
+    <string name="url_fraud_dangerous_alert">"Tunggu, situs web yang Anda coba kunjungi mungkin saja berbahaya. Kemungkinan akan merusak perangkat dan data Anda. Tetap kunjungi? %s"</string>
     <string name="url_fraud_visit"><u>Tetap kunjungi</u></string>
     <string name="url_fraud_insurance">Penipuan asuransi</string>
     <string name="sms_card_partner_label">"Partner kartu SMS: "</string>
