@@ -4,10 +4,10 @@
         <item quantity="other">Hapus %1$s percakapan terpilih?</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s dtk</item>
+        <item quantity="other">%d secs</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s dtk</item>
+        <item quantity="other">%d secs</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s hasil utk %2$s\"</item>
@@ -23,5 +23,8 @@
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s pesan</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d selected</item>
     </plurals>
 </resources>
